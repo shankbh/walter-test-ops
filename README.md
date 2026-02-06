@@ -226,3 +226,16 @@ To test your implementation, use the following command :
 ```bash
 sh run.sh -q 3.2
 ```
+
+
+## Documentation Update
+
+This repository has been updated with additional documentation and operational notes for sales operations workflow.
+
+### Quick Start
+- Follow the initial setup instructions above
+- - Review the data folder for sample sales data
+  - - Check the handlers folder for event processing logic
+   
+    - ---
+    *Last updated: February 2026*
